@@ -1,0 +1,63 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #222;
+}.cont{
+    width: 70%;
+    margin: 20px auto;
+    height: max-content;
+    border: 2px solid black;
+    border-radius: 20px;
+    background:linear-gradient(165deg,#00feba,#5b548a);
+    box-shadow: 3px 4px 7px;
+}h1{
+    text-align: center;
+    font-family: sans-serif;
+}.inp{
+
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+input{
+    width: 80%;
+    outline: 0;
+    border: 0;
+    border-bottom: 2px solid black;
+    background-color: transparent;
+
+}.enter{
+    height: 50px;
+    background-color: transparent;
+    outline: 0;
+    border: 0;
+    font-size: large;
+    margin: auto 0;
+    cursor: pointer;
+    font-weight: bold;
+}
+.list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 250px;
+    
+    font-weight: bold;
+    font-size: 15px;
+    
+    font-family: sans-serif;
+}.delete {
+    background-color: transparent;
+    border: 0;
+    font-weight: 20px;
+    color: black;
+    margin-left: 200px;
+    display: inline-block;
+    cursor: pointer;
+ 
+    
+}input::placeholder{
+    font-weight: bold;
+    color: black;
+    font-family: sans-serif;
+}
