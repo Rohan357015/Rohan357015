@@ -47,7 +47,6 @@
 ## 🌍 Connect With Me  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rohan-mishra-81b39b311/)  
-- 
 - 📧 Email: rohankumar3570@gmail.com 
 
 ---
