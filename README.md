@@ -66,10 +66,13 @@ Always curious. Always learning. Always building.
 </p>  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohan357015&theme=radical" alt="Rohan's GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Rohan357015&theme=radical" alt="Rohan's GitHub streak" />
 </p>  
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan357015&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 
 ## 🤝 Let's Connect  
 
